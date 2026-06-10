@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi there 👋 I'm Aegix
 
-<!--
-**Aegixs/aegixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | AI Agent Enthusiast
 
-Here are some ideas to get you started:
+Passionate about building scalable backend systems, cloud-native applications, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Backend
+
+* Java 8 / 17
+* Spring Boot
+* Spring Cloud
+* MyBatis-Plus
+* Redis
+* RocketMQ
+
+### Database
+
+* MySQL
+* PostgreSQL
+* OpenGauss
+* pgvector
+
+### DevOps
+
+* Docker
+* Docker Compose
+* Nginx
+* Linux (Ubuntu / CentOS / Kylin)
+
+### AI & LLM
+
+* Spring AI
+* LangChain4j
+* MCP
+* RAG
+* OpenAI
+* Claude
+* Qwen
+
+---
+
+## 💼 Current Focus
+
+* AI Agent Development
+* Spring AI & LangChain4j
+* Medical Service Platforms
+* MCP Integration
+* Cloud-Native Applications
+
+---
+
+## 📌 Featured Projects
+
+### Internet + Nursing Platform
+
+A comprehensive healthcare service platform including:
+
+* Patient Portal
+* Nurse Portal
+* Administration System
+* Online Assessment
+* Appointment Scheduling
+* Home Care Services
+
+### AI Agent Playground
+
+Experiments with:
+
+* Tool Calling
+* RAG
+* Workflow Orchestration
+* MCP Server Development
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aegixs\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aegixs\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+* GitHub: https://github.com/aegixs
+
+---
+
+> Building useful software with Java, AI, and cloud-native technologies.
